@@ -169,7 +169,7 @@ require (
 )
 
 require (
-	github.com/fatih/color v1.17.0
+	github.com/fatih/color v1.18.0
 	github.com/prometheus/client_golang v1.20.4
 	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56
 )
